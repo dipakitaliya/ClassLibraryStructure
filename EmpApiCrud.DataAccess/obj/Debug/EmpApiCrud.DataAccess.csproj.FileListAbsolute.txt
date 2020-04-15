@@ -1,0 +1,14 @@
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EmpApiCrud.DataAccess.dll.config
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EmpApiCrud.DataAccess.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EmpApiCrud.DataAccess.pdb
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EmpApiCrud.BusinessObjects.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EntityFramework.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EmpApiCrud.BusinessObjects.pdb
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EmpApiCrud.BusinessObjects.dll.config
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EntityFramework.xml
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\obj\Debug\EmpApiCrud.DataAccess.csprojAssemblyReference.cache
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\obj\Debug\EmpApiCrud.DataAccess.csproj.CopyComplete
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\obj\Debug\EmpApiCrud.DataAccess.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.DataAccess\obj\Debug\EmpApiCrud.DataAccess.pdb

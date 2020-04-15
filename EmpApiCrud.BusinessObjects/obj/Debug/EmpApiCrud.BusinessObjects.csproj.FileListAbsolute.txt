@@ -1,0 +1,11 @@
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\bin\Debug\EmpApiCrud.BusinessObjects.dll.config
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\bin\Debug\EmpApiCrud.BusinessObjects.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\bin\Debug\EmpApiCrud.BusinessObjects.pdb
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\bin\Debug\EntityFramework.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\bin\Debug\EntityFramework.SqlServer.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\bin\Debug\EntityFramework.xml
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\bin\Debug\EntityFramework.SqlServer.xml
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\obj\Debug\EmpApiCrud.BusinessObjects.csproj.CopyComplete
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\obj\Debug\EmpApiCrud.BusinessObjects.dll
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\obj\Debug\EmpApiCrud.BusinessObjects.pdb
+D:\IBL\EmpApiCrud\EmpApiCrud.BusinessObjects\obj\Debug\EmpApiCrud.BusinessObjects.csprojAssemblyReference.cache
